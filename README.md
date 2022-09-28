@@ -1,17 +1,15 @@
-### Hi there 👋
+### Hi there 👋 ### 
 
-<!--
-**Mjosuex85/Mjosuex85** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Mario Vidal I live in Madrid, I am a web developer, trained to work as a full stack developer, I have worked on studio projects where I mainly implemented Javascript, Node.js, React, Redux, bootstrap, CSS, HTML5, Express, PostreSQL, React Native, using the Scrum methodology and teamwork with GIT-flow. 💻
 
-Here are some ideas to get you started:
+I also worked for an Argentine company designing and leading a dedicated ERP (enterprise resource planning systems) application, based on Microsoft VBA, Excel and Microsoft Power Bi. 🖱️
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-dsdsdsdsdsdsdsd
+I am interested in continuing to increase my technical skills to a high level, without limiting myself and using them to create innovative projects where I can lead development teams and meet the goal of providing a solution to some of the problems I see on a daily basis.
+
+What am I currently doing? ⌨️
+
+To continue training and looking for a place where I can grow and realize my dreams and goals as a develop, making a personal project and freelance tech supporting  🔧
+
+contacts:    📧 mario.josuevp@gmail.com  
+                     💡  https://www.linkedin.com/in/mario-vidal-8138651a1/
+                    😺  https://github.com/Mjosuex85
