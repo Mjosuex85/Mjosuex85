@@ -2,21 +2,20 @@
 
 My name is Mario Vidal I live in Madrid, I am a web developer, trained to work as a full stack developer, I have worked on studio projects where I mainly implemented 
 
-const techSkills = {
+tech Skills
 
-  JavaScript, 
-  Node.js, 
-  React.js, 
-  Redux, 
-  Bootstrap, 
-  CSS,
-  HTML5, 
-  Express, 
-  Sequelize
-  PostgreSQL,
-  React Native
-  
-};
+  - JavaScript, 
+  - Node.js, 
+  - React.js, 
+  - Redux, 
+  - Bootstrap, 
+  - CSS,
+  - HTML5, 
+  - Express, 
+  - Sequelize
+  - PostgreSQL,
+  - React Native
+
 
 using the Scrum methodology and teamwork with GIT-flow. 💻
 
