@@ -1,9 +1,7 @@
 <h3> First... here you can find my <a href='https://portfoliomv.vercel.app/'> PORTFOLIO </a> and see about my work! </h3>
 
 <div>
-        <video  loop autoPlay muted width='100%'> 
-            <source src='./videoLogo.mp4' type='video/mp4'  />
-        </video>
+      <img src=''/>
 </div>
 
 <h2> Hi there 👋</h2> 
