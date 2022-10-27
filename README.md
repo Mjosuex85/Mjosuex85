@@ -1,5 +1,9 @@
 <h3> First... here you can find my <a href='https://portfoliomv.vercel.app/'> PORTFOLIO </a> and see about my work! </h3>
 
+<video>
+  <source src='./logoVideo.mp4'> </source>
+</video>
+
 <h2> Hi there 👋</h2> 
 
 My name is Mario Vidal I live in Madrid, I am a web developer, trained to work as a full stack developer, I have worked on studio projects where I mainly implemented 
