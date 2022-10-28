@@ -4,7 +4,7 @@
 
 <h2> Hi there 👋</h2> 
 
-My name is Mario Vidal I live in Madrid, I am a web developer, trained to work as a full stack developer, I have worked on studio projects where I mainly implemented 
+My name is Mario Vidal I live in Madrid, I am a web developer, trained to work as a full stack developer, I have worked on projects where I mainly implemented 
 
 <h2> tech Skills </h2>
 
@@ -40,4 +40,4 @@ To continue training and looking for a place where I can grow and realize my dre
 - 💡  https://www.linkedin.com/in/mario-vidal-8138651a1/
 - 😺  https://github.com/Mjosuex85
 - 🐤  https://twitter.com/Mario_JvP
-- 🤳  here you can find my <a href='https://portfoliomv.vercel.app/'> Portfolio </a>
+- 🤳  here you can find my <a href='https://portfoliomv.vercel.app/' blank_> Portfolio </a>
