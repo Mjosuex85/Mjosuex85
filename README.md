@@ -9,6 +9,7 @@ My name is Mario Vidal I live in Madrid, I am a web developer, trained to work a
 <h2> tech Skills </h2>
 
   - JavaScript, 
+  - TypeScript
   - Node.js, 
   - React.js, 
   - Redux, 
