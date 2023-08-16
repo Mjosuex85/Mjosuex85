@@ -10,8 +10,12 @@ My name is Mario Vidal I live in Madrid, I am a web developer, trained to work a
 
   - JavaScript, 
   - TypeScript
+  - Java
+  - C#
+  - .NET 
   - Node.js, 
-  - React.js, 
+  - React.js,
+  - Angular
   - Redux, 
   - Bootstrap, 
   - CSS,
