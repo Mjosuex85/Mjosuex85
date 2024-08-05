@@ -44,5 +44,4 @@ To continue training and looking for a place where I can grow and realize my dre
 - 📧 mario.josuevp@gmail.com  
 - 💡  https://www.linkedin.com/in/mario-vidal-8138651a1/
 - 😺 https://github.com/Mjosuex85
-- 🐤 https://twitter.com/Mario_JvP
 - 🤳 here you can find my <a target='_blank' href='https://portfoliomv.vercel.app/'> Portfolio </a>
